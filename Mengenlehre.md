@@ -41,7 +41,7 @@ Anstelle von $\overline{A}$ kann auch die Bezeichnung $A^{c}$ verwendet werden.
 von zwei Mengen A und B besteht aus allen Elementen, welche zu genau einer der beiden Mengen gehören.
 $$A \bigtriangleup B := (A \cup B) \setminus (A \cap B)$$
 ## Die Produktmenge
-von zwei Mengen A und B ist die Menge aller (geordneten (ToDo: hier Definition verlinken)) Paare aller Elemente aus A und B.
+von zwei Mengen A und B ist die Menge aller (geordneten (ToDo: hier Definition verlinken)) Paare aller Elemente aus A und B. Eine weitere Bezeichnung der Produktmenge wäre das Kartesische Produkt.
 $$A \times B := \{(a; b): a \in A, b \in B\}$$
 Die Produktmenge kann auch für mehr als zwei Mengen gebildet werden. Dabei entsteht die Menge aller geordneten Tupel der Länge n.
 $$A_1 \times A_2 \times ... \times A_n = (a_1; a_2; ... ; a_n: a_1 \in A_1, a_2 \in A_2; ... ; a_n \in A_n)$$
